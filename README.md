@@ -1,4 +1,5 @@
 # Nest Service
+This is a CRUD application that implements user authorization and authentication, error logging, and the use of docker. Postgres is used as a database and Prisma as an ORM
 
 ## Prerequisites
 
